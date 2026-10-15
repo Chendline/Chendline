@@ -4,7 +4,7 @@
 
 **Aqil • 18 • SE Student • Islamabad**
 
-*overthinker, procrastinator, "philosopher", situational grass toucher*
+*procrastinator, "philosopher", situational grass toucher*
 
 </div>
 

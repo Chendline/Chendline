@@ -33,9 +33,8 @@ status      probably scrolling reels or im just dead</code>
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/46/ba/85/46ba8538b3294a928daaa593772bbaf8.gif" width="60%" />
+  <img width="30%" alt="Chainsaw Man GIF" src="https://github.com/user-attachments/assets/c7cf54b5-4aaa-40e4-8ace-d71e7ddaa3c7" />
 </div>
-
 ---
 
 ## Projects

@@ -1,16 +1,18 @@
-                       ##             Chendline 
+<div align="center">
 
-<!--
-**Chendline/Chendline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chendline
 
-Here are some ideas to get you started:
+**Aqil • 18 • SE Student • Islamabad**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*procrastinator, "philosopher", situational grass toucher*
+
+</div>
+
+## About Me
+
+- DID NOT TAKE Harvard's CS50
+- Interested in Game Development 
+- NOT Tinkering with Web Stuff
+- NOT Currently making stuff that I'll actually use (hopefully soon tho :P)
+
+---

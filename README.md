@@ -17,7 +17,7 @@
     </td>
     <td width="60%" valign="top">
       <pre>
-<code>aqil@github
+<code>chendline@github
 -----------
 name        Aqil (Chendline)
 role        18 y/o SE Student

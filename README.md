@@ -1,38 +1,47 @@
 <div align="center">
 
+<a href="https://github.com/chendline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B39DDB&center=true&vCenter=true&width=500&lines=Hey+there!+Welcome!;I'm+Aqil+(Chendline);Procrastinating+as+we+speak" alt="Typing animation" />
+</a>
+
 # Chendline
 
 **Aqil • 18 • SE Student • Islamabad**
 
 *procrastinator, "philosopher", situational grass toucher*
 
-<br>
-
-<img src="https://i.pinimg.com/1200x/53/7c/22/537c229e6ca2751ec44518c1545cd9ff.jpg" width="320" alt="Denji" />
-
 </div>
 
-<br>
+---
+
+<table border="0">
+  <tr>
+    <td width="40%" valign="top">
+      <img src="https://i.pinimg.com/1200x/53/7c/22/537c229e6ca2751ec44518c1545cd9ff.jpg" width="100%" alt="Denji" />
+      <br><br>
+      <img src="https://github.com/user-attachments/assets/c7cf54b5-4aaa-40e4-8ace-d71e7ddaa3c7" width="100%" alt="Reze GIF" />
+    </td>
+    <td width="60%" valign="top">
 
 ```text
 chendline@github
 ----------------
-name       Aqil (Chendline)
-role       18 y/o SE Student
-interests  Game Dev, creative coding,
-           web tinkering(larp)
-current    making stuff that I'll
-           actually use
-fuel       hot choco (!!!!)
-status     probably scrolling reels
-           or im just dead
+name      Aqil (Chendline)
+role      18 y/o SE Student
+interests Game Dev, creative
+          coding, web
+          tinkering(larp)
+current   making stuff that
+          I'll actually use
+fuel      hot choco (!!!!)
+status    probably scrolling
+          reels or im just
+          dead
 ```
 
-<div align="left">
-
-<img src="https://github.com/user-attachments/assets/c7cf54b5-4aaa-40e4-8ace-d71e7ddaa3c7" width="200" alt="Chainsaw Man GIF" />
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 

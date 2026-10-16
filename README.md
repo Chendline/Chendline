@@ -1,7 +1,9 @@
 <div align="center">
 
+<div align="center">
+
 <a href="https://github.com/chendline">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B39DDB&center=true&vCenter=true&width=500&lines=Hey+there!+Welcome!;I'm+Aqil+(Chendline);Procrastinating+as+we+speak" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B39DDB&center=true&vCenter=true&width=600&lines=やっほー！ようこそ！;アキルだよ（チェンドライン）;今も先延ばし中" alt="Typing animation" />
 </a>
 
 # Chendline

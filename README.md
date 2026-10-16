@@ -2,9 +2,13 @@
 
 <div align="center">
 
+<div align="center">
+
 <a href="https://github.com/chendline">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=B39DDB&center=true&vCenter=true&width=600&lines=やっほー！ようこそ！;アキルだよ（チェンドライン）;今も先延ばし中" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=1200&color=B39DDB&center=true&vCenter=true&width=600&lines=%E3%82%84%E3%81%A3%E3%81%BB%E3%83%BC%EF%BC%81%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E3%82%A2%E3%82%AD%E3%83%AB%E3%81%A0%E3%82%88%EF%BC%88%E3%83%81%E3%82%A7%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%89;%E4%BB%8A%E3%82%82%E5%85%88%E5%BB%B6%E3%81%B0%E3%81%97%E4%B8%AD" alt="Typing animation" />
 </a>
+
+</div>
 
 # Chendline
 

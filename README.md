@@ -28,7 +28,7 @@ status     probably scrolling reels
            or im just dead
 ```
 
-<div align="center">
+<div align="left">
 
 <img src="https://github.com/user-attachments/assets/c7cf54b5-4aaa-40e4-8ace-d71e7ddaa3c7" width="300" alt="Chainsaw Man GIF" />
 

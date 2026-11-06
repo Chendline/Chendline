@@ -52,10 +52,10 @@ status    probably scrolling
 </table>
 
 ---
-
 ## Projects
 
-- *none*
+- [ai voice dispatcher](https://github.com/Chendline/ai-voice-dispatcher) — AI-powered voice dispatch system
+- [Umbra Chronos](https://github.com/r1hix/NaSCon-Game) — Collaborative Unity game project
 
 ---
 
